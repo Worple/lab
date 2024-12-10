@@ -1,0 +1,12 @@
+
+# SQLite database
+*.db
+*.db-journal
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
